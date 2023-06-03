@@ -1,9 +1,11 @@
 # BashBot
 > Work In Progress
+> Currently supported on MacOS only
 
 BashBot brings the power of OpenAI's `gpt-3.5-turbo` to your command-line, plus gives you the additional ability to work in the console while talking to ChatGPT, autosaving code that ChatGPT generates, and giving you the ability to quickly save, run, and view that generated code.
 
 > Note: For the time being, to get a license key, contact me at b3ahmed@uwaterloo.ca. I'm working on automating this, but it's under development.
+
 
 ## Installation and Config
 ```shell
